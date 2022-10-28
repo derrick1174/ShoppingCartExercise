@@ -1,9 +1,8 @@
-# ShoppingCartExercise
-exercise as part of HEB application
+files included in this repository
 
 # ShoppingCartExerciseMain.py
 main file; python file
-run this with your prefered IDE
+run this with on your prefered python-based IDE
 
 # cart.json
 place in same folder as ShoppingCartExerciseMain.py
